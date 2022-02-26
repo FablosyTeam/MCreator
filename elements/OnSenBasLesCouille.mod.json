@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "musicdisccutom",
+    "name": "On S'en Bas Les Couille",
+    "description": "Custom Music (Best)",
+    "creativeTab": {
+      "value": "CUSTOM:Custom"
+    },
+    "music": {
+      "value": "CUSTOM:custommusicdisc"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

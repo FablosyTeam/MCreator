@@ -1,0 +1,39 @@
+{
+  "group": "fablosy",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fablosy:fablosium_gem"
+    },
+    "2": {
+      "item": "fablosy:fablosium_gem"
+    },
+    "3": {
+      "item": "fablosy:fablosium_gem"
+    },
+    "4": {
+      "item": "fablosy:fablosium_gem"
+    },
+    "5": {
+      "item": "fablosy:fablosium_gem"
+    },
+    "6": {
+      "item": "fablosy:fablosium_gem"
+    },
+    "7": {
+      "item": "fablosy:fablosium_gem"
+    },
+    "8": {
+      "item": "fablosy:fablosium_gem"
+    }
+  },
+  "result": {
+    "item": "fablosy:fablosuim_chestplate",
+    "count": 1
+  }
+}

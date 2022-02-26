@@ -1,0 +1,19 @@
+{
+  "group": "fablosy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "fablosy:food_stick",
+    "count": 2
+  }
+}

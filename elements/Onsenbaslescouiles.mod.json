@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "musicdisccutom",
+    "name": "On s en bas les couiles",
+    "description": "On s'en bas les couilles",
+    "creativeTab": {
+      "value": "CUSTOM:Custom"
+    },
+    "music": {
+      "value": "CUSTOM:onsenbaslescouillesmusic"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "onRightClickedInAir": {
+      "name": "OnsenbaslescouilesRightClickedInAir"
+    }
+  }
+}

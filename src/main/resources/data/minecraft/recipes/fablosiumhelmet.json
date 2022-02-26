@@ -1,0 +1,25 @@
+{
+  "group": "fablosy",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fablosy:fablosium_gem"
+    },
+    {
+      "item": "fablosy:fablosium_gem"
+    },
+    {
+      "item": "fablosy:fablosium_gem"
+    },
+    {
+      "item": "fablosy:fablosium_gem"
+    },
+    {
+      "item": "fablosy:fablosium_gem"
+    }
+  ],
+  "result": {
+    "item": "fablosy:fablosuim_helmet",
+    "count": 1
+  }
+}

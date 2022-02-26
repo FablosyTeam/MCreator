@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fablosy:blocks/fablosium_ore",
+    "up": "fablosy:blocks/fablosium_ore",
+    "north": "fablosy:blocks/fablosium_ore",
+    "east": "fablosy:blocks/fablosium_ore",
+    "south": "fablosy:blocks/fablosium_ore",
+    "west": "fablosy:blocks/fablosium_ore",
+    "particle": "fablosy:blocks/fablosium_ore"
+  }
+}

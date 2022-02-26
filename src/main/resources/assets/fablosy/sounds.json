@@ -1,0 +1,20 @@
+{
+  "custommusicdisc": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fablosy:on-sen-bat-les-couilles-mr-yeye-version-10-minute-jdg",
+        "stream": true
+      }
+    ]
+  },
+  "onsenbaslescouillesmusic": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "fablosy:on-sen-bat-les-couilles",
+        "stream": true
+      }
+    ]
+  }
+}
